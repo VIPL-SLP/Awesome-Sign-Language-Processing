@@ -1,5 +1,13 @@
 ## Sign Language Production
 [[Back]](../README.md)
+- [NeurIPS 2025] Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization. [[paper]](https://openreview.net/forum?id=6FHvr5hJdd)   
+  *Cong Wang, Zexuan Deng, Zhiwei Jiang, Yafeng Yin, Fei Shen, Zifeng Cheng, Shiping Ge, Shiwei Gan, Qing Gu*
+- [ICCV 2025] GReg: Geometry-Aware Region Refinement for Sign Language Video Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Shi_GReg_Geometry-Aware_Region_Refinement_for_Sign_Language_Video_Generation_ICCV_2025_paper.html)   
+  *Tongkai Shi, Lianyu Hu, Fanhua Shang, Liqing Gao, Wei Feng*
+- [ICCV 2025] Signs as Tokens: A Retrieval-Enhanced Multilingual Sign Language Generator. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Zuo_Signs_as_Tokens_A_Retrieval-Enhanced_Multilingual_Sign_Language_Generator_ICCV_2025_paper.html)   
+  *Ronglai Zuo, Rolandos Alexandros Potamias, Evangelos Ververas, Jiankang Deng, Stefanos Zafeiriou*
+- [CVPR 2025] Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Discrete_to_Continuous_Generating_Smooth_Transition_Poses_from_Sign_Language_CVPR_2025_paper.html)   
+  *Shengeng Tang, Jiayi He, Lechao Cheng, Jingjing Wu, Dan Guo, Richang Hong*
 - [EMNLP Findings 2024] Word-Conditioned 3D American Sign Language Motion Generation. [[paper]](https://aclanthology.org/2024.findings-emnlp.584/)   
   *Lu Dong, Xiao Wang, Ifeoma Nwogu*
 - [ECCV 2024] A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06499.pdf)   

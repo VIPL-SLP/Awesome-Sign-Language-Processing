@@ -1,6 +1,5 @@
 ## Journal Papers
-
-- [2022 TMM] Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954921/)    
+- [2022 TMM] Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework. [[paper]](https://ieeexplore.ieee.org/abstract/document/9954921/)    
 *Hezhen Hu, Junfu Pu, Wengang Zhou, Houqiang Li*
 - [2021 TMM] Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation. [[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)    
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*

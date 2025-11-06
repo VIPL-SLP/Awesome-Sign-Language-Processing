@@ -1,5 +1,33 @@
 ## Sign Language Translation
 [[Back]](../README.md)
+- [EMNLP 2025] PoseStitch-SLT: Linguistically Inspired Pose-Stitching for End-to-End Sign Language Translation. [[paper]](https://aclanthology.org/2025.emnlp-main.698/)     
+*Abhinav Joshi, Vaibhav Sharma, Sanjeet Singh, Ashutosh Modi*
+- [WMT 2025] SONAR-SLT: Multilingual Sign Language Translation via Language-Agnostic Sentence Embedding Supervision. [[paper]](https://aclanthology.org/2025.wmt-1.18/)     
+*Yasser Hamidullah, Shakib Yazdani, Cennet Oguz, Josef Van Genabith, Cristina España-Bonet*
+- [NeurIPS 2025] Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation. [[paper]](https://openreview.net/forum?id=WkUzrUsqR9)     
+*Edward Fish, Richard Bowden*
+- [NeurIPS 2025] Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation. [[paper]](https://openreview.net/forum?id=p6Huickfj7)     
+*Jianyuan Guo, Peike Li, Trevor Cohn*
+- [ICCV 2025] Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Kim_Leveraging_the_Power_of_MLLMs_for_Gloss-Free_Sign_Language_Translation_ICCV_2025_paper.html)     
+*Jungeun Kim, Hyeongwoo Jeon, Jongseong Bae, Ha Young Kim*
+- [ACM MM 2025] Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation. [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755319)     
+*Zhihao Wang, Shiyu Liu, Zhiwei He, Kangjie Zheng, Liangying Shao, Junfeng Yao, Jinsong Su*
+- [BMVC 2025] Beyond Gloss: A Hand-Centric Framework for Gloss-Free Sign Language Translation. [[paper]](https://arxiv.org/abs/2507.23575)     
+*Sobhan Asasi, Mohamed Ilyas Lakhal, Ozge Mercanoglu Sincan, Richard Bowden*
+- [ACL 2025] SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction. [[paper]](https://aclanthology.org/2025.acl-long.1397/)     
+*Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu*
+- [ACL 2025] Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model. [[paper]](https://aclanthology.org/2025.acl-short.43/)     
+*Sihan Tan, Taro Miyazaki, Kazuhiro Nakadai*
+- [ACL Findings 2025] SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [[paper]](https://aclanthology.org/2025.findings-acl.1157/)     
+*Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu*
+- [CVPR 2025] Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Lost_in_Translation_Found_in_Context_Sign_Language_Translation_with_CVPR_2025_paper.html)     
+*Youngjoon Jang, Haran Raajesh, Liliane Momeni, Gul Varol, Andrew Zisserman*
+- [ICLR 2025] YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus. [[paper]](https://openreview.net/forum?id=nFVsK3QLgs)   
+  *Garrett Tanzer, Biao Zhang*
+- [ICLR 2025] Uni-Sign: Toward Unified Sign Language Understanding at Scale. [[paper]](https://openreview.net/forum?id=0Xt7uT04cQ)   
+  *Zecheng Li, Wengang Zhou, Weichao Zhao, Kepeng Wu, Hezhen Hu, Houqiang Li*
+- [OpenReview] Hybrid Model Collaboration for Sign Language Translation with VQ-VAE and RAG Enhanced LLMS. [[paper]](https://openreview.net/forum?id=7kRFnSFN89)   
+  *Jian Ma, Wenguan Wang, Yi Yang, Weili Guan, Feng Zheng*
 - [Neurips 2024] Scaling Sign Language Translation.[[paper]](https://openreview.net/forum?id=M80WgiO2Lb)     
 *Biao Zhang, Garrett Tanzer, Orhan Firat*
 - [Neurips 2024] Improving Gloss-free Sign Language Translation by Reducing Representation Density.[[paper]](https://openreview.net/forum?id=FtzLbGoHW2)     
