@@ -191,6 +191,7 @@ and Fine Hand Features. [[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 - [Complete List of Gesture Recognition](./complete_list/gesture_recognition.md)
 
 ## Sign Language Workshop
+- [[CVPR GenSign 2026]](https://genai4sl.github.io/) Generative AI for Sign Language.
 - [[CVPR SLRTP 2025]](https://slrtpworkshop.github.io) Sign language recognition, translation & production.
 - [[ECCV SLRTP 2022]](https://slrtp-2022.github.io/) Sign language recognition, translation & production.
 - [[ECCV SLRTP 2020]](https://slrtp.com/) Sign language recognition, translation & production. [[Accepted papers]](SLRTP_acccepted_list.md)
@@ -224,3 +225,7 @@ and Fine Hand Features. [[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 |     BOBSL    |    BSL   |          |      √     |     √    |       |     39    |  2,281 |    452K    |
 |    OpenASL   |    ASL   |          |      √     |     √    |       |    220    | 33,549 |   98,417   |
 |  YouTube-ASL |    ASL   |          |      √     |     √    |       |   >2519   |   60K  |   11,093   |
+|     Slovo    |    RSL   |     √    |            |     √    |       |    194    |  1,000 |   20,400   |
+|  MM-WLAuslan |   ASULAN |     √    |            |     √    |   √   |    73     |  3,215 |   282,000  |
+|NationalCSL-DP|    CSL   |     √    |            |     √    |       |    10     |  6,707 |   67,070   |
+
