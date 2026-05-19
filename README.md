@@ -54,9 +54,13 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Yiyang Jiang, Li Zhang, Xiao-Yong Wei, Li Qing*
 - [ACL 2026] Selective Contrastive Learning For Gloss Free Sign Language Translation. [[paper]](https://arxiv.org/abs/2604.22374)     
 *Changhao Lai, Rui Zhao, Xuewen Zhong, Jinsong Su, Yidong Chen*
+- [CVPR 2026] Learning Effective Sign Features without Text for Gloss-free Sign Language Translation. [[paper]](https://cvpr.thecvf.com/virtual/2026/poster/39809)     
+*Shiwei Gan, Xiao Liu, Yafeng Yin, Nan Liu, Kuizhuang Liu, Desibieer Tuerdaken, Zhiwei Jiang, Lei Xie, Sanglu Lu, Hongkai Wen*
+- [CVPR 2026] BoostSLT: Boosting Sign Language Translation via a Plug-and-Play Diffusion-Based Semantic Enhancer. [[paper]](https://cvpr.thecvf.com/virtual/2026/oral/40375)     
+*Changzhou Han, Wanlun Ma, XI TANG, Kun Hu, Sheng Wen, Yang Xiang*
 - [WACV 2026] Large Sign Language Models: Toward 3D American Sign Language Translation. [[paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Zhang_Large_Sign_Language_Models_Toward_3D_American_Sign_Language_Translation_WACV_2026_paper.pdf)     
 *Sen Zhang, Xiaoxiao He, Di Liu, Zhaoyang Xia, Mingyu Zhao, Chaowei Tan, Vivian Li, Bo Liu, Dimitris N. Metaxas, Mubbasir Kapadia*
-- [NIPS 2025] MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes. [[paper]](https://openreview.net/forum?id=YjZYMHvlRs)     
+- [NeurIPS 2025] MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes. [[paper]](https://openreview.net/forum?id=YjZYMHvlRs)     
 *Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Lei Xie, Sanglu Lu, Hongkai Wen*
 - [EMNLP 2025] PoseStitch-SLT: Linguistically Inspired Pose-Stitching for End-to-End Sign Language Translation. [[paper]](https://aclanthology.org/2025.emnlp-main.698/)     
 *Abhinav Joshi, Vaibhav Sharma, Sanjeet Singh, Ashutosh Modi*
@@ -83,6 +87,10 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 ### Sign Language Production
 - [WACV 2026] DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors. [[paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Kundu_DexAvatar_3D_Sign_Language_Reconstruction_with_Hand_and_Body_Pose_WACV_2026_paper.pdf)   
   *Kaustubh Kundu, Hrishav Bakul Barua, Lucy Robertson-Bell, Zhixi Cai, Kalin Stefanov*
+- [CVPR 2026] Focal–General Diffusion Model with Semantic Consistent Guidance for Sign Language Production. [[paper]](https://cvpr.thecvf.com/virtual/2026/poster/39783)   
+  *Yiheng Yu, Sheng Liu, Yuan Feng, Zhelun Jin, Yining Jiang, Min Xu*
+- [CVPR 2026] SignPR: A Progressive Vector-Quantized Diffusion Framework for Sign Language Production. [[paper]](https://cvpr.thecvf.com/virtual/2026/poster/38631)   
+  *Xiao Liu, Shiwei Gan, Yafeng Yin, Bowen Guo, Zhiwei Jiang, Shunmei Meng, Lei Xie, Sanglu Lu*
 - [WACV 2026] Disentangle and Regularize: Sign Language Production with Articulator-Based Disentanglement and Channel-Aware Regularization. [[paper]](https://arxiv.org/abs/2504.06610)   
   *Sumeyye Meryem Tasyurek, Tugce Kiziltepe, Hacer Yalim Keles*
 - [NeurIPS 2025] Advanced Sign Language Video Generation with Compressed and Quantized Multi-Condition Tokenization. [[paper]](https://openreview.net/forum?id=6FHvr5hJdd)   
@@ -114,6 +122,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Rui Zhao, Xuewen Zhong, Xiaoyun Zheng, Jinsong Su, Yidong Chen*
 - [CVPR 2026] OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis. [[paper]](https://arxiv.org/abs/2602.22949)     
 *Junuk Cha, Jihyeon Kim, Han-Mu Park*
+- [CVPR 2026] Text-Driven 3D Hand Motion Generation from Sign Language Data. [[paper]](https://arxiv.org/abs/2508.15902)     
+*Léore Bensabath, Mathis Petrovich, Gül Varol*
 - [WMT 2025] Meaningful Pose-Based Sign Language Evaluation. [[paper]](https://aclanthology.org/2025.wmt-1.4/)   
   *Zifan Jiang, Colin Leong, Amit Moryossef, Oliver Cory, Maksym Ivashechkin, Neha Tarigopula, Biao Zhang, Anne Göhring, Annette Rios, Rico Sennrich, Sarah Ebling*
 - [EMNLP 2025] Improving Handshape Representations for Sign Language Processing: A Graph Neural Network Approach. [[paper]](https://aclanthology.org/2025.emnlp-main.1483/)     
@@ -152,6 +162,10 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 ### Co-speech Gesture Generation
 - [AAAI 2026] Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion. [[paper]](https://arxiv.org/abs/2503.10488)     
 *Evgeniia Vu, Andrei Boiarov, Dmitry Vetrov*
+- [CVPR 2026] CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation. [[paper]](https://cvpr.thecvf.com/virtual/2026/poster/39470)     
+*Fengyi Fang, Sicheng Yang, Wenming Yang*
+- [CVPR 2026] LiveGesture Streamable Co-Speech Gesture Generation Model. [[paper]](https://arxiv.org/abs/2604.10927)     
+*Muhammad Usama Saleem, Mayur Jagdishbhai Patel, Ekkasit Pinyoanuntapong, Zhongxing Qin, Li Yang, Hongfei Xue, Ahmed Helmy, Chen Chen, Pu Wang*
 - [NeurIPS 2025] PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis. [[paper]](https://openreview.net/forum?id=QJSrgYcf4b)     
 *Zhizhuo Yin, Yuk Hang Tsui, Pan Hui*
 - [ICCV 2025] Democratizing High-Fidelity Co-Speech Gesture Video Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Democratizing_High-Fidelity_Co-Speech_Gesture_Video_Generation_ICCV_2025_paper.html)    
@@ -175,6 +189,10 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Co-speech Gesture Generation](./complete_list/co_speech_gesture_generation.md)
 
 ### Gesture Recognition
+- [CVPR 2026] SHANDS: A Multi-View Dataset and Benchmark for Surgical Hand-Gesture and Error Recognition Toward Medical Training. [[paper]](https://arxiv.org/abs/2603.26400)     
+*Le Ma, Thiago Freitas dos Santos, Nadia Magnenat-Thalmann, Katarzyna Wac*
+- [CVPR 2026] Active Inference for Micro-Gesture Recognition: EFE-Guided Temporal Sampling and Adaptive Learning. [[paper]](https://arxiv.org/abs/2603.07559)     
+*Weijia Feng, Jingyu Yang, Ruojia Zhang, Fengtao Sun, Qian Gao, Chenyang Wang, Tongtong Su, Jia Guo, Xiaobai Li, Minglai Shao*
 - [ICCV 2025] Understanding Co-speech Gestures in-the-wild. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Hegde_Understanding_Co-speech_Gestures_in-the-wild_ICCV_2025_paper.pdf)     
 *Sindhu B Hegde, K R Prajwal, Taein Kwon, Andrew Zisserman*
 - [NeurIPS 2025] Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition. [[paper]](https://openreview.net/forum?id=u8SXX5ITE6)     
