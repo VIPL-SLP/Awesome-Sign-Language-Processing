@@ -256,4 +256,5 @@ and Fine Hand Features. [[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)
 |     Slovo    |    RSL   |     √    |            |     √    |       |    194    |  1,000 |   20,400   |
 |  MM-WLAuslan |   ASULAN |     √    |            |     √    |   √   |    73     |  3,215 |   282,000  |
 |NationalCSL-DP|    CSL   |     √    |            |     √    |       |    10     |  6,707 |   67,070   |
+| [EPEE](https://huggingface.co/datasets/CLERC-DATA/epee) | ASL | √ | | √ | | 4 | - | 600 |
 
