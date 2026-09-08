@@ -1,12 +1,20 @@
 ## Sign Language Recognition
 [[Back]](../README.md)
-- [EMNLP 2025] Logos as a Well-Tempered Pre-train for Sign Language Recognition. [[paper]](https://aclanthology.org/2025.emnlp-main.1238/)    
+- [BMVC 2026] Recognising BSL Fingerspelling in Continuous Signing Sequences. [[paper]](https://arxiv.org/abs/2603.19523) [[code]](https://github.com/chan-alyssa/Fingerspelling-Recognition)  
+*Alyssa Chan, Taein Kwon, Andrew Zisserman*
+- [BMVC 2026] RAIDAL: Redundancy-Aware Information Density Active Learning for CTC-Based Continuous Sign Language Recognition. [[paper pending]](https://bmvc2026.bmva.org/programme/accepted_papers/)  
+*Full author list pending.*
+- [BMVC 2026] SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting. [[paper]](https://arxiv.org/abs/2608.25493)  
+*Eunjee Choi, JungHoon Sung, Seongwhan Cho, Chu Xin, Younggeun Choi*
+- [ICLR 2026] BANZ-FS: BANZSL FINGERSPELLING DATASET. [[paper]](https://openreview.net/forum?id=GMR9BUsPbq)     
+*Xin Shen, Yan Ke, Xinyu Wang, Xin Yu*
+- [EMNLP 2025] Logos as a Well-Tempered Pre-train for Sign Language Recognition. [[paper]](https://aclanthology.org/2025.emnlp-main.1238/) [[code]](https://github.com/ai-forever/Logos)    
 *Ilya Ovodov, Petr Surovtsev, Karina Kvanchiani, Alexander Kapitanov, Alexander Nagaev*
 - [EMNLP Findings 2025] Rethinking Sign Language Translation: The Impact of Signer Dependence on Model Evaluation. [[paper]](https://aclanthology.org/2025.findings-emnlp.997/)    
 *Keren Artiaga, Sabyasachi Kamila, Haithem Afli, Conor Lynch, Mohammed Hasanuzzaman*
 - [ICCV 2025] Cross-View Isolated Sign Language Recognition via View Synthesis and Feature Disentanglement. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Shen_Cross-View_Isolated_Sign_Language_Recognition_via_View_Synthesis_and_Feature_ICCV_2025_paper.html)    
 *Xin Shen, Xinyu Wang, Lei Shen, Kaihao Zhang, Xin Yu*
-- [CVPR 2025] VSNet: Focusing on the Linguistic Characteristics of Sign Language. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_VSNet_Focusing_on_the_Linguistic_Characteristics_of_Sign_Language_CVPR_2025_paper.html)     
+- [CVPR 2025] VSNet: Focusing on the Linguistic Characteristics of Sign Language. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_VSNet_Focusing_on_the_Linguistic_Characteristics_of_Sign_Language_CVPR_2025_paper.html) [[code]](https://github.com/atinyboy/VSNet)     
 *YuHao Li, Xinyue Chen, Hongkai Li, Xiaorong Pu, Peng Jin, Yazhou Ren*
 - [OpenReview]  Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[paper]](https://openreview.net/forum?id=flgrH5nK4H)    
   *Toon Vandendriessche, Mathieu De Coster, Annelies Lejon, Joni Dambre*
@@ -14,13 +22,13 @@
 *Xin Shen, Heming Du, Hongwei Sheng, Shuyun Wang, Hui Chen, Huiqiang Chen, Zhuojie Wu, Xiaobiao Du, Jiaying Ying, Ruihan Lu, Qingzheng Xu, Xin Yu*
 - [ICLR 2025 Submission]  Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[paper]](https://openreview.net/forum?id=flgrH5nK4H)    
   *Anonymous authors*
-- [EMNLP 2024]  SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [[paper]](https://aclanthology.org/2024.emnlp-main.518/)    
+- [EMNLP 2024]  SignCLIP: Connecting Text and Sign Language by Contrastive Learning. [[paper]](https://aclanthology.org/2024.emnlp-main.518/) [[code]](https://github.com/J22Melody/fairseq/tree/main/examples/MMPT)    
   *Zifan Jiang, Gerard Sant, Amit Moryossef, Mathias Müller, Rico Sennrich, Sarah Ebling*
-- [EMNLP 2024]  Towards Online Continuous Sign Language Recognition and Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.619/)    
+- [EMNLP 2024]  Towards Online Continuous Sign Language Recognition and Translation. [[paper]](https://aclanthology.org/2024.emnlp-main.619/) [[code]](https://github.com/FangyunWei/SLRT/tree/main/Online)    
   *Ronglai Zuo, Fangyun Wei, Brian Mak*
 - [CVPR 2024]  SignGraph: A Sign Sequence is Worth Graphs of Nodes. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.html) [[code]](https://github.com/gswycf/SignGraph/tree/main)    
   *Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Hongkai Wen, Kang Xia, Lei Xie, Sanglu Lu*
-- [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/)    
+- [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/) [[code]](https://github.com/Este1le/slr_handshape)    
   *Xuan Zhang, Kevin Duh*
 - [EMNLP Findings 2023] Making Body Movement in Sign Language Corpus Accessible for Linguists and Machines with Three-Dimensional Normalization of MediaPipe. [[paper]](https://aclanthology.org/2023.findings-emnlp.124/)    
   *Houda Bouamor, Juan Pino, Kalika Bali*
@@ -38,7 +46,7 @@
 *Fangyun Wei, Yutong Chen* 
 - [ICCV 2023] C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)   
 *Huaiwen Zhang, Zihang Guo, Yang Yang, Xin Liu, De Hu* 
-- [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/)    
+- [EMNLP Findings 2023]  Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods. [[paper]](https://aclanthology.org/2023.findings-emnlp.198/) [[code]](https://github.com/Este1le/slr_handshape)    
   *Xuan Zhang, Kevin Duh*
 - [EMNLP Findings 2023] Making Body Movement in Sign Language Corpus Accessible for Linguists and Machines with Three-Dimensional Normalization of MediaPipe. [[paper]](https://aclanthology.org/2023.findings-emnlp.124/)    
   *Houda Bouamor, Juan Pino, Kalika Bali*

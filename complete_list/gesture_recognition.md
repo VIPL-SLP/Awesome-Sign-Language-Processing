@@ -1,25 +1,42 @@
 ## Gesture Recognition
 [[Back]](../README.md)
-- [NeurIPS 2025] Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition. [[paper]](https://openreview.net/forum?id=u8SXX5ITE6)     
+
+- [ECCV 2026] Amplify, Aggregate, and Adjust: VideoMAE-based Holistic-Subtle Aggregation for Micro-Action Recognition. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/4219)  
+*Yan Zhang, Nan Pu, Wenjing Li, Zhun Zhong, Meng Wang*
+- [ECCV 2026] Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision. [[paper]](https://arxiv.org/abs/2603.26646)  
+*Ling Li, Bowen Liu, Zinuo Zhan, Peng Jie, Jianhui Zhong, Kenglun Chang, Zhidong Deng*
+- [ECCV 2026] BiCE-HG: A Bi-Conditional Egocentric Hand Gesture Dataset for Intelligent Reality Systems. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/5982)  
+*Awfa Dakheel, Charith Abhayaratne*
+- [ECCV 2026] Recognizing Co-Speech Gestures in-the-Wild. [[paper]](https://arxiv.org/abs/2605.31589) [[code]](https://github.com/Sindhu-Hegde/grw)  
+*Sindhu Hegde, K R Prajwal, Andrew Zisserman*
+- [ECCV 2026] S2Gest: Split-Scan State Space Models for Dynamic Hand Gesture Recognition. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/3811)  
+*KeFan Chen, Yong Gu, Bo Li, Longjie Huang, Jiajun Zhang*
+- [CVPR 2026] SHANDS: A Multi-View Dataset and Benchmark for Surgical Hand-Gesture and Error Recognition Toward Medical Training. [[paper]](https://arxiv.org/abs/2603.26400)     
+*Le Ma, Thiago Freitas dos Santos, Nadia Magnenat-Thalmann, Katarzyna Wac*
+- [CVPR 2026] Active Inference for Micro-Gesture Recognition: EFE-Guided Temporal Sampling and Adaptive Learning. [[paper]](https://arxiv.org/abs/2603.07559)     
+*Weijia Feng, Jingyu Yang, Ruojia Zhang, Fengtao Sun, Qian Gao, Chenyang Wang, Tongtong Su, Jia Guo, Xiaobai Li, Minglai Shao*
+- [ICCV 2025] Understanding Co-speech Gestures in-the-wild. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Hegde_Understanding_Co-speech_Gestures_in-the-wild_ICCV_2025_paper.pdf) [[code]](https://github.com/Sindhu-Hegde/jegal)     
+*Sindhu B Hegde, K R Prajwal, Taein Kwon, Andrew Zisserman*
+- [NeurIPS 2025] Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition. [[paper]](https://openreview.net/forum?id=u8SXX5ITE6) [[code]](https://github.com/capableofanything/SKETCH)     
 *Sang Hoon Han, Seonho Lee, Hyeok Nam, Jae Hyeon Park, Min Hee Cha, Min Geol Kim, Hyunse Lee, Sangyeon Ahn, Chae moon ju, Sung In Cho*
-- [CVPR 2025] Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mane_Ges3ViG__Incorporating_Pointing_Gestures_into_Language-Based_3D_Visual_Grounding_CVPR_2025_paper.html)      
+- [CVPR 2025] Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mane_Ges3ViG__Incorporating_Pointing_Gestures_into_Language-Based_3D_Visual_Grounding_CVPR_2025_paper.html) [[code]](https://github.com/AtharvMane/Ges3ViG)      
 *Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay Sarma, Archan Misra*
-- [CVPR 2025] SocialGesture: Delving into Multi-person Gesture Understanding. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Cao_SocialGesture_Delving_into_Multi-person_Gesture_Understanding_CVPR_2025_paper.html)      
+- [CVPR 2025] SocialGesture: Delving into Multi-person Gesture Understanding. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Cao_SocialGesture_Delving_into_Multi-person_Gesture_Understanding_CVPR_2025_paper.html) [[code]](https://github.com/IrohXu/SocialGesture)      
 *Xu Cao, Pranav Virupaksha, Wenqi Jia, Bolin Lai, Fiona Ryan, Sangmin Lee, James Rehg*
-- [ICLR 2025 Submission] Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis. [[paper]](https://openreview.net/forum?id=B7eHRsuTSh)      
-*Anonymous authors*
-- [ICCV 2023] Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Learning_Robust_Representations_with_Information_Bottleneck_and_Memory_Network_for_ICCV_2023_paper.html)      
+- [OpenReview] Revisiting Noise Resilience Strategies in Gesture Recognition: Short-Term Enhancement in Surface Electromyographic Signal Analysis. [[paper]](https://openreview.net/forum?id=B7eHRsuTSh)      
+*Weiyu Guo, Ziyue Qiao, Ying Sun, Hui Xiong*
+- [ICCV 2023] Learning Robust Representations with Information Bottleneck and Memory Network for RGB-D-based Gesture Recognition. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Learning_Robust_Representations_with_Information_Bottleneck_and_Memory_Network_for_ICCV_2023_paper.html)      
 *Yunan Li, Huizhou Chen, Guanwen Feng, Qiguang Miao*
-- [ICCV 2023] Data-Free Class-Incremental Hand Gesture Recognition.[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Aich_Data-Free_Class-Incremental_Hand_Gesture_Recognition_ICCV_2023_paper.html)      
+- [ICCV 2023] Data-Free Class-Incremental Hand Gesture Recognition. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Aich_Data-Free_Class-Incremental_Hand_Gesture_Recognition_ICCV_2023_paper.html) [[code]](https://github.com/humansensinglab/dfcil-hgr)      
 *Shubhra Aich, Jesus Ruiz-Santaquiteria, Zhenyu Lu, Prachi Garg, K J Joseph, Alvaro Fernandez Garcia, Vineeth N Balasubramanian, Kenrick Kin, Chengde Wan, Necati Cihan Camgoz, Shugao Ma, Fernando De la Torre*
-- [BMVC 2022] Towards more efficient few-shot learning based human gesture recognition via dynamic vision sensors.[[paper]](https://bmvc2022.mpi-inf.mpg.de/0938.pdf)    
+- [BMVC 2022] Towards more efficient few-shot learning based human gesture recognition via dynamic vision sensors. [[paper]](https://bmvc2022.mpi-inf.mpg.de/0938.pdf)    
 *Linglin Jing, Yifan Wang, Tailin Chen, Shirin Dora, Zhigang Ji, Hui Fang*    
 - [BMVC 2022] Continuous Hand Gesture Recognition using Deep Coarse
-and Fine Hand Features.[[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)        
+and Fine Hand Features. [[paper]](https://bmvc2022.mpi-inf.mpg.de/1055.pdf)        
 *Hazem Wannous, Jean-Philippe Vandeborre* 
-- [CVPR 2022] LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_LD-ConGR_A_Large_RGB-D_Video_Dataset_for_Long-Distance_Continuous_Gesture_CVPR_2022_paper.html)     
+- [CVPR 2022] LD-ConGR: A Large RGB-D Video Dataset for Long-Distance Continuous Gesture Recognition. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_LD-ConGR_A_Large_RGB-D_Video_Dataset_for_Long-Distance_Continuous_Gesture_CVPR_2022_paper.html) [[code]](https://github.com/Diananini/LD-ConGR-CVPR2022)     
   *Dan Liu; Libo Zhang; Yanjun Wu*
-- [AAAI 2022] Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)    
+- [AAAI 2022] Learning Unseen Emotions from Gestures via Semantically-Conditioned Zero-Shot Perception with Adversarial Autoencoders. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)    
   *Abhishek Banerjee, Uttaran Bhattacharya, Aniket Bera*
 - [ICCV 2021] YouRefIt: Embodied Reference Understanding With Language and Gesture.[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_YouRefIt_Embodied_Reference_Understanding_With_Language_and_Gesture_ICCV_2021_paper.html)    
    *Yixin Chen; Qing Li; Deqian Kong; Yik Lun Kei; Song-Chun Zhu; Tao Gao; Yixin Zhu; Siyuan Huang*

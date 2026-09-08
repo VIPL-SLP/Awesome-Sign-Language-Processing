@@ -1,22 +1,39 @@
 ## Co-speech Generation
 [[Back]](../README.md)
-- [NeurIPS 2025] PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis. [[paper]](https://openreview.net/forum?id=QJSrgYcf4b)     
+
+- [ECCV 2026] CtrlCoMo: Controllable Co-Speech Motion Generation with Gesture–Action Disentanglement. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/5059)  
+*Xinghan Wang, Ming Zhou, Yanbo Zheng, Youjiang Xu, Yuan Zhang, Mingyuan Gao, Nan Zhuang, Yadong Mu*
+- [ECCV 2026] HolisticSemGes: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching. [[paper]](https://arxiv.org/abs/2603.26553)  
+*Lanmiao Liu, Esam Ghaleb, Aslı Özyürek, Zerrin Yumak*
+- [ECCV 2026] RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction. [[paper]](https://arxiv.org/abs/2608.28693)  
+*Zifan Wang, Ziang Ren, Pengyang Shi, Zirui Wang, Chenghuai Lin, Tianze Wang, Zekun Qi, Liangliang Zhao, He Wang, Li Yi*
+- [ECCV 2026] SICAGE: Speaker-Independent Culture-Aware Gesture Generation using TED4C-L Dataset. [[paper]](https://arxiv.org/abs/2606.30001) [[code]](https://github.com/arielgj95/SICAGE)  
+*Ariel Gjaci, Antonio Sgorbissa, Vittorio Murino*
+- [ECCV 2026] StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring. [[paper]](https://arxiv.org/abs/2608.01643) [[code]](https://github.com/Xiangyue-Zhang/StreamTalk)  
+*Jianfang Li, Xiangyue Zhang, Jiaxu Zhang, Kaixing Yang, Steven Hoi*
+- [AAAI 2026] Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion. [[paper]](https://arxiv.org/abs/2503.10488) [[code]](https://github.com/andrewbo29/co-speech-gestures-rolling-diffusion)     
+*Evgeniia Vu, Andrei Boiarov, Dmitry Vetrov*
+- [CVPR 2026] CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation. [[paper]](https://cvpr.thecvf.com/virtual/2026/poster/39470)     
+*Fengyi Fang, Sicheng Yang, Wenming Yang*
+- [CVPR 2026] LiveGesture Streamable Co-Speech Gesture Generation Model. [[paper]](https://arxiv.org/abs/2604.10927)     
+*Muhammad Usama Saleem, Mayur Jagdishbhai Patel, Ekkasit Pinyoanuntapong, Zhongxing Qin, Li Yang, Hongfei Xue, Ahmed Helmy, Chen Chen, Pu Wang*
+- [NeurIPS 2025] PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis. [[paper]](https://openreview.net/forum?id=QJSrgYcf4b) [[code]](https://github.com/Williamy946/PyraMotion)     
 *Zhizhuo Yin, Yuk Hang Tsui, Pan Hui*
-- [ICCV 2025] Democratizing High-Fidelity Co-Speech Gesture Video Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Democratizing_High-Fidelity_Co-Speech_Gesture_Video_Generation_ICCV_2025_paper.html)    
+- [ICCV 2025] Democratizing High-Fidelity Co-Speech Gesture Video Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Democratizing_High-Fidelity_Co-Speech_Gesture_Video_Generation_ICCV_2025_paper.html) [[code]](https://github.com/MPI-Lab/Democratizing-CSG)    
 *Xu Yang, Shaoli Huang, Shenbo Xie, Xuelin Chen, Yifei Liu, Changxing Ding*
-- [ICCV 2025] GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_GestureHYDRA_Semantic_Co-speech_Gesture_Synthesis_via_Hybrid_Modality_Diffusion_Transformer_ICCV_2025_paper.html)    
+- [ICCV 2025] GestureHYDRA: Semantic Co-speech Gesture Synthesis via Hybrid Modality Diffusion Transformer and Cascaded-Synchronized Retrieval-Augmented Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_GestureHYDRA_Semantic_Co-speech_Gesture_Synthesis_via_Hybrid_Modality_Diffusion_Transformer_ICCV_2025_paper.html) [[code]](https://github.com/hlyyyyy/GestureHydra)    
 *Quanwei Yang, Luying Huang, Kaisiyuan Wang, Jiazhi Guan, Shengyi He, Fengguo Li, Hang Zhou, Lingyun Yu, Yingying Li, Haocheng Feng, Hongtao Xie*
-- [ICCV 2025] GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_GestureLSM_Latent_Shortcut_based_Co-Speech_Gesture_Generation_with_Spatial-Temporal_Modeling_ICCV_2025_paper.html)    
+- [ICCV 2025] GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_GestureLSM_Latent_Shortcut_based_Co-Speech_Gesture_Generation_with_Spatial-Temporal_Modeling_ICCV_2025_paper.html) [[code]](https://github.com/andypinxinliu/GestureLSM)    
 *Pinxin Liu, Luchuan Song, Junhua Huang, Haiyang Liu, Chenliang Xu*
-- [ICCV 2025] SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_SemGes_Semantics-aware_Co-Speech_Gesture_Generation_using_Semantic_Coherence_and_Relevance_ICCV_2025_paper.html)    
+- [ICCV 2025] SemGes: Semantics-aware Co-Speech Gesture Generation using Semantic Coherence and Relevance Learning. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_SemGes_Semantics-aware_Co-Speech_Gesture_Generation_using_Semantic_Coherence_and_Relevance_ICCV_2025_paper.html) [[code]](https://github.com/marcos452/SemGes)    
 *Lanmiao Liu, Esam Ghaleb, asli ozyurek, Zerrin Yumak*
 - [ACM MM 2025] Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755140)    
 *Pinxin Liu, Pengfei Zhang, Hyeongwoo Kim, Pablo Garrido, Ari Shapiro, Kyle Olszewski*
-- [CVPR 2025] Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mughal_Retrieving_Semantics_from_the_Deep_an_RAG_Solution_for_Gesture_CVPR_2025_paper.html)    
+- [CVPR 2025] Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mughal_Retrieving_Semantics_from_the_Deep_an_RAG_Solution_for_Gesture_CVPR_2025_paper.html) [[code]](https://github.com/m-hamza-mughal/RAG-Gesture)    
   *Muhammad Hamza Mughal, Rishabh Dabral, Merel CJ Scholman, Vera Demberg, Christian Theobalt*
-- [CVPR 2025] Co-Speech Gesture Video Generation with Implicit Motion-Audio Entanglement. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Co-Speech_Gesture_Video_Generation_with_Implicit_Motion-Audio_Entanglement_CVPR_2025_paper.html)    
+- [CVPR 2025] Co-Speech Gesture Video Generation with Implicit Motion-Audio Entanglement. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Co-Speech_Gesture_Video_Generation_with_Implicit_Motion-Audio_Entanglement_CVPR_2025_paper.html) [[code]](https://github.com/abcdvzz/imae-open-source)    
   *Xinjie Li, Ziyi Chen, Xinlu Yu, Iek-Heng Chu, Peng Chang, Jing Xiao*
-- [CVPR 2025] HOP: Heterogeneous Topology-based Multimodal Entanglement for Co-Speech Gesture Generation. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_HOP_Heterogeneous_Topology-based_Multimodal_Entanglement_for_Co-Speech_Gesture_Generation_CVPR_2025_paper.html)    
+- [CVPR 2025] HOP: Heterogeneous Topology-based Multimodal Entanglement for Co-Speech Gesture Generation. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Cheng_HOP_Heterogeneous_Topology-based_Multimodal_Entanglement_for_Co-Speech_Gesture_Generation_CVPR_2025_paper.html) [[code]](https://github.com/Chenghyyy/HOP-Heterogeneous-Topology-based-Multimodal-Entanglement-for-Co-Speech-Gesture-Generation)    
   *Hongye Cheng, Tianyu Wang, guangsi shi, Zexing Zhao, Yanwei Fu*
 - [ACM MM 2025] Realistic-Gesture: Co-Speech Gesture Video Generation through Semantic-aware Gesture Representation. [[paper]](https://openreview.net/forum?id=EXsiGFkwV6)    
   *Pinxin Liu, Pengfei Zhang, Hyeongwoo Kim, Pablo Garrido, Ari Shapiro, Kyle Olszewski*
